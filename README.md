@@ -73,4 +73,3 @@ Optimal Placement of Log Printing Statements under Specified Overhead Threshold.
 + [**EMSE '19**] _Dataset:_ Mobile Logging Practices([Replication](https://bitbucket.org/sense_concordia/mobilelogreplication/src/master/)) - [Studying the characteristics of logging practices in mobile apps: a case study on F-Droid](./papers/emse_2019_zeng.pdf) Yi Zeng, Jinfu Chen, Weiyi Shang, Tse-Hsun (Peter) Chen.
 + [**EMSE '19**] _Dataset:_ Logging-Code-Issue-Introducing(LCII) changes and fixes ([Replication](http://www.cse.yorku.ca/~zmjiang/share/replication_package/emse2018_chen/replication_package.zip)) - [Extracting and studying the Logging-Code-IssueIntroducing changes in Java-based large-scale open source software systems](./papers/icse_2019_li.pdf)
 
-
